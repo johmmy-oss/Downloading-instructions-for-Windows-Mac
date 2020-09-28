@@ -10,4 +10,5 @@ If prompted, enter the Microsoft Office product key
 5)
 Again, click on the ‘Install’ button and your product will begin downloading
 6)
-Wait for the setup file to get downloaded on your Windows/Mac
+Wait for the setup file to get downloaded on your Windows/Mac.office.com/setup
+https://office-settup.com/
